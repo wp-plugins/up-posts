@@ -6,11 +6,11 @@ Requires at least: 2.9
 Tested up to: 3.3.1
 Stable tag: 1.1
 
-Displays your upcoming posts in a sidebar to tease your readers.
+Displays your upcoming posts in the sidebar to tease your readers.
 
 == Description ==
 
-Up Posts is a widget in you sidebar that allows you to display your upcoming posts to your readers. This will create anticipation. More importantly, the widget gets your reader to come back to your blog.
+Up Posts is a widget in your sidebar that allows you to display your upcoming posts to your readers. This will create anticipation. More importantly, the widget gets your reader to come back to your blog.
 
 Here are some options:
 

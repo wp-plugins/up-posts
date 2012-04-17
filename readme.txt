@@ -6,7 +6,7 @@ Requires at least: 2.9
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Displays your upcoming posts in a sidebar widget to tease your readers
+Displays your upcoming posts in a sidebar to tease your readers.
 
 == Description ==
 

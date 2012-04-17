@@ -13,9 +13,9 @@ More importantly, the widget gets your reader to come back to your blog.
 
 Here are some options:
 
-*   Number of upcoming posts to display
-*   Choose whether to show scheduled posts, drafts, or both.
-*   Include link to sign-up to newsletter
+*  Number of upcoming posts to display
+*  Choose whether to show scheduled posts, drafts, or both.
+*  Include link to sign-up to newsletter
 
 == Installation ==
 
@@ -32,7 +32,8 @@ Here are some options:
 
 == Screenshots ==
 
-See website plugin.
+See [website](http://plugins.rotranit.com/ "website")
+plugin.
 
 == Changelog ==
 

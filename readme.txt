@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: rotranit
-Donate link: http://www.rotranit.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CD6L9J9CQN79S
 Tags: drafts, future, posts, next, scheduled, sidebar, up posts, upcoming, widget
-Requires at least: 2.9 or higher
+Requires at least: 2.9
 Tested up to: 3.3.1
 Stable tag: 1.0
 
@@ -18,7 +18,7 @@ Here are some options:
 * Choose whether to show scheduled posts, drafts, or both.
 * Include link to sign-up to newsletter
 
-If you have any suggestions on revisions that you'd like to see made, please [conatact me](http://www.rotranit.com/contact/ "Contact Ro").
+If you have any suggestions on revisions that you'd like to see made, please [contact me](http://www.rotranit.com/contact/ "Contact Ro").
 
 == Installation ==
 

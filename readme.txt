@@ -35,7 +35,7 @@ If you have any suggestions on revisions that you'd like to see made, please [co
 
 == Screenshots ==
 
-[Please visit website.](http://plugins.rotranit.com/ "Website")
+[Please visit website](http://plugins.rotranit.com/ "Website") for instructions.
 
 == Changelog ==
 

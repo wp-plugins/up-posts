@@ -36,7 +36,7 @@ If you have any suggestions on revisions that you'd like to see made, please [co
 == Screenshots ==
 
 1. An example of the widget in use.
-2. The widget control panel.
+[Please visit website.](http://plugins.rotranit.com/ "Website")
 
 == Changelog ==
 

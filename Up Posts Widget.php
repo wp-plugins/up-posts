@@ -3,7 +3,7 @@
 Plugin Name: Up Posts 
 Plugin URI: http://plugins.rotranit.com/
 Description: Displays upcoming posts to tease your readers.
-Version: 1.0
+Version: 1.1
 Author: Ro Tran
 Author URI: http://www.rotranit.com
 License: GPL2
@@ -78,7 +78,7 @@ License: GPL2
 			</p>
 			<p>
 				<a href="<?php bloginfo('rss2_url') ?>" title="Subscribe to <?php bloginfo('name') ?>">
-					<img style="vertical-align:middle; margin:0 10px 0 0;" src="<?php bloginfo('wpurl') ?>/wp-content/plugins/Up-Posts-Widget/icons/rss.jpg" width="16px" height="16px" alt="Subscribe to <?php bloginfo('name') ?>" />		
+					<img style="vertical-align:middle; margin:0 10px 0 0;" src="<?php bloginfo('wpurl') ?>/wp-content/plugins/Up-Posts-Widget/icons/rss.PNG" width="16px" height="16px" alt="Subscribe to <?php bloginfo('name') ?>" />		
 				</a>
 				Don't miss it - <strong><a href="<?php bloginfo('rss2_url') ?>" title="Subscribe to <?php bloginfo('name') ?>">Subscribe by RSS.</a></strong>
 			</p>

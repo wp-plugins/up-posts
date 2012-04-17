@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: drafts, future, posts, next, scheduled, sidebar, up posts, upcoming, widget
 Requires at least: 2.9
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Displays your upcoming posts in a sidebar to tease your readers.
 
@@ -39,10 +39,16 @@ If you have any suggestions on revisions that you'd like to see made, please [co
 
 == Changelog ==
 
+= 1.1 =
+* Added rss.png.
+
 = 1.0 =
 * The first version.
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Added rss.png.
 
 = 1.0 =
 Initial version for other sites.
